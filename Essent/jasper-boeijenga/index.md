@@ -4,6 +4,6 @@ role: Technical Competence Lead - Front End
 image: ./jasper.jpeg
 ---
 
-# Jasper
+![jasper](./jasper.jpeg)
 
-Jasper is our technical concience when it comes to fron-ends.
+Jasper is our technical concience when it comes to front-ends.
