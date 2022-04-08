@@ -1,6 +1,8 @@
 ---
 title: How to write code!
 description: This is how you can write code.
+tags:
+    - Craftsmanship
 ---
 
 # How to write code

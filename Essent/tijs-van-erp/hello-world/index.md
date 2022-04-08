@@ -2,6 +2,8 @@
 title: Hello, World, from Tijs!
 description: Hello to the world
 date: 12-03-2022
+tags:
+    - Craftsmanship
 ---
 
 # Hello World
