@@ -1,6 +1,7 @@
 ---
 title: How to write code!
 description: This is how you can write code.
+image: ./download.gif
 tags:
     - Craftsmanship
 ---
